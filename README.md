@@ -14,6 +14,7 @@ After the Server is running, the Clients can be activated:
 
 In order to run the game from the Client side:
 -Run: python Client.py arg1 arg2 arg3 arg4
+
 where:
 
 arg1: the machine name - the machine on which the server(!) is running.
@@ -26,11 +27,17 @@ arg4: *.ship file path – representing the player ships (I'll include a few exa
 
 
 
+
+
 EXAMPLE:
 ---------
+
 1) On one terminal, go to where Server.py is located and type: python Server.py 127.0.0.1 8888. You've now opened a server (locally).
+
 2) On a different terminal, go to where Client.py is located and type: python Client.py 127.0.0.1 8888 Shahar Ships/a.ship. This will open a client named Shahar and will connect him to the server you've just opened.
+
 3) On yet another different terminal, type: python Client.py 127.0.0.1 8888 Nemesis Ships/b.ship. 
+
 
 Now the game is on.
 
