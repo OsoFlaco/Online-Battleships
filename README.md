@@ -4,8 +4,7 @@ An online simple battleships game initiated from 3 different terminals - one by 
 DIRECTIONS:
 -----------
 
-In order to start the game from the Server side:
--Run: python Server.py arg1 arg2
+In order to start the game from the Server side, -Run: python Server.py arg1 arg2
 
 where:
 
@@ -18,8 +17,7 @@ arg2: port number.
 After the Server is running, the Clients can be activated:
 
 
-In order to run the game from the Client side:
--Run: python Client.py arg1 arg2 arg3 arg4
+In order to run the game from the Client sidem, -Run: python Client.py arg1 arg2 arg3 arg4
 
 where:
 
