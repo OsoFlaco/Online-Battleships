@@ -28,4 +28,6 @@ EXAMPLE:
 
 Now the game is on.
 
+Type "exit" to leave the game at any given time.
+
 When it'll be finished the connections will be closed (Server will end it's run).
