@@ -30,7 +30,6 @@ class Client:
         self.player = Player(player_name, player_ships)
         self.latest_move = list()
         """
-        DO NOT CHHANGE
         If you want to run you program on windowns, you'll
         have to temporarily remove this line (but then you'll need
         to manually give input to your program). 
