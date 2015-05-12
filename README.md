@@ -6,9 +6,13 @@ DIRECTIONS:
 
 In order to start the game from the Server side:
 -Run: python Server.py arg1 arg2
+
 where:
+
 arg1: the machine name – the machine name on which the server is running (or "127.0.0.1" to run it locally).
+
 arg2: port number.
+
 
 After the Server is running, the Clients can be activated:
 
