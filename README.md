@@ -15,10 +15,16 @@ After the Server is running, the Clients can be activated:
 In order to run the game from the Client side:
 -Run: python Client.py arg1 arg2 arg3 arg4
 where:
-\narg1: the machine name - the machine on which the server(!) is running.
-\narg2: port number – the same used when opening a server(!).
-/narg3: the player's name.
-/narg4: *.ship file path – representing the player ships (I'll include a few example files).
+
+arg1: the machine name - the machine on which the server(!) is running.
+
+arg2: port number – the same used when opening a server(!).
+
+arg3: the player's name.
+
+arg4: *.ship file path – representing the player ships (I'll include a few example files).
+
+
 
 EXAMPLE:
 ---------
