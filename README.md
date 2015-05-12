@@ -14,7 +14,9 @@ arg1: the machine name – the machine name on which the server is running (or "
 arg2: port number.
 
 
+
 After the Server is running, the Clients can be activated:
+
 
 In order to run the game from the Client side:
 -Run: python Client.py arg1 arg2 arg3 arg4
